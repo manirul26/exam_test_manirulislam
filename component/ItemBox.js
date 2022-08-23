@@ -90,7 +90,7 @@ const styles = StyleSheet.create({
   },
   iconContent: {
     flex: 1,
-    paddingVertical: 8,
+    padding: 7,
     fontSize: 14,
     color: 'white',
     marginHorizontal: 5
